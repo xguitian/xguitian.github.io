@@ -247,3 +247,16 @@ a {
 }
 
 
+.iframe-rwd  {
+        position: relative;
+        padding-bottom: 65.25%;
+        overflow: hidden;
+}
+.iframe-rwd iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+}
+
